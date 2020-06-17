@@ -37,7 +37,7 @@
 
 - If you want to buy a similar EasyCap device, I strongly recommend finding another better alternatives. It's a low-cost device with poor capabilities and the audio hardware it's almost unusable 
 
-- To capture video, use VirtualDub [https://sourceforge.net/projects/virtualdub/files/virtualdub-win/1.10.4.35491/] , and make sure that you select the correct input source
+- To capture video, use [VirtualDub](https://sourceforge.net/projects/virtualdub/files/virtualdub-win/1.10.4.35491/) , and make sure that you select the correct input source
 
 
 ![Device 1](device1.jpg)
