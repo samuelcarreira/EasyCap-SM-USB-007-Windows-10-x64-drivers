@@ -10,7 +10,6 @@
   USB\VID_1C88&PID_003C&REV_0100
   USB\VID_1C88&PID_003C
 ```
-![hardware ID](hardware-id.png)
 
 4. Alternatively, you can use the following PowerShell command:
  ```
@@ -33,7 +32,7 @@
 
 - I had a lot of problems finding a "safe" driver to my Windows Pro x64 machine including a nefarious BSOD each time I plugged the USB device.
 
-- Try to use a USB 3.0 port (to make sure that you have enough current to power the device and the maximum bandwidth). Also, when capturing video try to disconnect any adjacent USB devices near to prevent interferences.
+- Try to use a USB 3.0 port (to make sure that you have enough current to power the device and the maximum bandwidth - I know that is a USB 2.0 device but you don't lose anything trying). Also, when capturing video try to disconnect any adjacent USB devices near to prevent interferences.
 
 - If you want to buy a similar EasyCap device, I strongly recommend finding another better alternatives. It's a low-cost device with poor capabilities and the audio hardware it's almost unusable 
 
@@ -50,3 +49,4 @@ Board details:
 SMI2021 V2.8
 2010_11_28
 ```
+![hardware ID](hardware-id.png)
