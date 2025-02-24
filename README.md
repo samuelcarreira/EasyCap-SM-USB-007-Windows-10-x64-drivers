@@ -26,6 +26,10 @@
 - Version: 1.0.8.28
 - Signed by: Somagic (Hangzhou Technology Co. Ltd)
 
+- Support the following devices (PID), thanks @melstav :
+  - 1C88:003C
+  - 1C88:003D
+  - 1C88:0007
 
 ## Personal Notes:
 - VirusTotal check: https://www.virustotal.com/gui/file/729403b5f4e38375bb556e5bd9b97b94ed74e6cd5a56eae9038c69035b1961bc/detection
